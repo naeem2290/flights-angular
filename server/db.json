@@ -1,0 +1,18 @@
+{
+  "Users": [
+    {
+      "firstName": "tesgting",
+      "lastName": "final",
+      "email": "shoaib.masood@fxreplay.com",
+      "password": "env@vs101",
+      "id": 1
+    },
+    {
+      "firstName": "tesgting",
+      "lastName": "final",
+      "email": "shoaib.masood@fxreplay.com",
+      "password": "env@vs101",
+      "id": 2
+    }
+  ]
+}
